@@ -14,7 +14,6 @@ class ZhipuLLM(BaseLLM):
         """初始化智谱AI客户端"""
         super().__init__()
         api_key = os.getenv("ZHIPUAI_API_KEY")
-        api_key = "b36dfc57dc8d4ed49eae828a917687a1.OzMaHx87fXf1UsS1"
         if not api_key:
             raise ValueError("ZHIPUAI_API_KEY environment variable is not set")
         self.client=ZhipuAI(api_key=api_key)
