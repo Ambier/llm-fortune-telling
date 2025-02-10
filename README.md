@@ -37,6 +37,7 @@ DEEPSEEK_API_KEY=your_deepseek_key
 ```bash
 python app.py
 ```
+
 ![alt text](interface.png)
 
 ## 项目结构
