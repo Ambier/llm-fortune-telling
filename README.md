@@ -37,6 +37,7 @@ DEEPSEEK_API_KEY=your_deepseek_key
 ```bash
 python app.py
 ```
+![Uploading 截屏2025-02-10 18.38.15.png…]()
 
 ## 项目结构
 
