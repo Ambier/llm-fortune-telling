@@ -1,5 +1,5 @@
 
-![alt text](194ef347f6e26.png)
+![alt text](brand.png)
 
 # 神算机 (The Augury Machine)
 
