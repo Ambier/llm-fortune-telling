@@ -16,7 +16,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/llm-fortune-telling.git
+git clone https://github.com/Ambier/llm-fortune-telling.git
 cd llm-fortune-telling
 ```
 
